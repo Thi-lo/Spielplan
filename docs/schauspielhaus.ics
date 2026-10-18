@@ -1,0 +1,546 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//schauspiel-koeln-ical//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Schauspiel Köln – Schauspielhaus
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:82754f8a28c7f2a5875b467b9d1fe3f5e51fc4f4@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261023T173000Z
+DTEND:20261023T183000Z
+SUMMARY:Delay the Sadness
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 00 min\nkeine Pause\nhttps://www.schauspiel.koeln/p
+ roduktion/delay-sadness
+URL:https://www.schauspiel.koeln/produktion/delay-sadness
+END:VEVENT
+BEGIN:VEVENT
+UID:9dcc6b2f4352e3a5667425b378469f5d25380669@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261024T173000Z
+DTEND:20261024T183000Z
+SUMMARY:Delay the Sadness
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 00 min\nkeine Pause\nhttps://www.schauspiel.koeln/p
+ roduktion/delay-sadness
+URL:https://www.schauspiel.koeln/produktion/delay-sadness
+END:VEVENT
+BEGIN:VEVENT
+UID:f4164aee7b3868b4b7f679c4afb25deeb27ca36f@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261025T170000Z
+DTEND:20261025T180000Z
+SUMMARY:Delay the Sadness
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 00 min\nkeine Pause\nhttps://www.schauspiel.koeln/p
+ roduktion/delay-sadness
+URL:https://www.schauspiel.koeln/produktion/delay-sadness
+END:VEVENT
+BEGIN:VEVENT
+UID:3f1bfda746a09414db0993f1f89c3e56bb4085e6@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261031T183000Z
+DTEND:20261031T203000Z
+SUMMARY:Kaspar
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:https://www.schauspiel.koeln/produktion/kaspar
+URL:https://www.schauspiel.koeln/produktion/kaspar
+END:VEVENT
+BEGIN:VEVENT
+UID:1d2904fe7688f42be5695eac8675e304ea9d1237@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261108T170000Z
+DTEND:20261108T190000Z
+SUMMARY:Kaspar
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:https://www.schauspiel.koeln/produktion/kaspar
+URL:https://www.schauspiel.koeln/produktion/kaspar
+END:VEVENT
+BEGIN:VEVENT
+UID:6c83c1488ee049a97343fef5102b9d0422a1426c@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261113T183000Z
+DTEND:20261113T203000Z
+SUMMARY:Kaspar
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:https://www.schauspiel.koeln/produktion/kaspar
+URL:https://www.schauspiel.koeln/produktion/kaspar
+END:VEVENT
+BEGIN:VEVENT
+UID:cf6e5b3da880b0d81f458ee13d372a2f569321ae@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261128T183000Z
+DTEND:20261128T203000Z
+SUMMARY:Kaspar
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:https://www.schauspiel.koeln/produktion/kaspar
+URL:https://www.schauspiel.koeln/produktion/kaspar
+END:VEVENT
+BEGIN:VEVENT
+UID:832719dd8bc72c57806bcec278aa540a880f9aea@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261101T180000Z
+DTEND:20261101T194500Z
+SUMMARY:Imagine
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 45 min\nkeine Pause\nhttps://www.schauspiel.koeln/p
+ roduktion/imagine
+URL:https://www.schauspiel.koeln/produktion/imagine
+END:VEVENT
+BEGIN:VEVENT
+UID:3f58b225f295fa21a8dbb14c3b6f8f67bdbdb694@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:Imagine
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 45 min\nkeine Pause\nhttps://www.schauspiel.koeln/p
+ roduktion/imagine
+URL:https://www.schauspiel.koeln/produktion/imagine
+END:VEVENT
+BEGIN:VEVENT
+UID:d0bc9fb6b36d56d262bbcde6119f85461cff20eb@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261104T183000Z
+DTEND:20261104T200000Z
+SUMMARY:Mal – Embriaguez Divina
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 30 min\nhttps://www.schauspiel.koeln/produktion/mal
+ -embriaguez-divina
+URL:https://www.schauspiel.koeln/produktion/mal-embriaguez-divina
+END:VEVENT
+BEGIN:VEVENT
+UID:81e48085f30ed61595a213f48fb83c50d8eac4eb@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261105T183000Z
+DTEND:20261105T200000Z
+SUMMARY:Mal – Embriaguez Divina
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 30 min\nhttps://www.schauspiel.koeln/produktion/mal
+ -embriaguez-divina
+URL:https://www.schauspiel.koeln/produktion/mal-embriaguez-divina
+END:VEVENT
+BEGIN:VEVENT
+UID:0b580a375b69f74bf47dd3f182928a5cbd7fe7b4@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261106T183000Z
+DTEND:20261106T202000Z
+SUMMARY:In bester Lage
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause\nhttps://www.schauspiel.koeln/p
+ roduktion/in-bester-lage
+URL:https://www.schauspiel.koeln/produktion/in-bester-lage
+END:VEVENT
+BEGIN:VEVENT
+UID:61295fd6df3bee3eea7ac5b54872f39780830b84@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261115T183000Z
+DTEND:20261115T202000Z
+SUMMARY:In bester Lage
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause\nhttps://www.schauspiel.koeln/p
+ roduktion/in-bester-lage
+URL:https://www.schauspiel.koeln/produktion/in-bester-lage
+END:VEVENT
+BEGIN:VEVENT
+UID:1ff1dd47eb49ede5a6b7a3ee1ea3e3060d402ee0@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261107T160000Z
+DTEND:20261107T173000Z
+SUMMARY:Theaterführung
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 30 min\nhttps://www.schauspiel.koeln/produktion/the
+ aterfuehrung
+URL:https://www.schauspiel.koeln/produktion/theaterfuehrung
+END:VEVENT
+BEGIN:VEVENT
+UID:72e14a8c49674511e3af88f5927f566de252616e@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261114T153000Z
+DTEND:20261114T170000Z
+SUMMARY:Theaterführung
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 30 min\nhttps://www.schauspiel.koeln/produktion/the
+ aterfuehrung
+URL:https://www.schauspiel.koeln/produktion/theaterfuehrung
+END:VEVENT
+BEGIN:VEVENT
+UID:0aa621541d305d756ddd2f3f16d22e616e7a3bfe@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261115T153000Z
+DTEND:20261115T170000Z
+SUMMARY:Theaterführung
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 30 min\nhttps://www.schauspiel.koeln/produktion/the
+ aterfuehrung
+URL:https://www.schauspiel.koeln/produktion/theaterfuehrung
+END:VEVENT
+BEGIN:VEVENT
+UID:2227d0461e41b2547563853bc1311bdcbea0555b@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261128T160000Z
+DTEND:20261128T173000Z
+SUMMARY:Theaterführung
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 30 min\nhttps://www.schauspiel.koeln/produktion/the
+ aterfuehrung
+URL:https://www.schauspiel.koeln/produktion/theaterfuehrung
+END:VEVENT
+BEGIN:VEVENT
+UID:b2bf7c60994e8456e7eb10a2ccbe8328beb14ca1@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201000Z
+SUMMARY:Die Deutsche Bahn AG
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 40 min\nkeine Pause\nhttps://www.schauspiel.koeln/p
+ roduktion/die-deutsche-bahn-ag
+URL:https://www.schauspiel.koeln/produktion/die-deutsche-bahn-ag
+END:VEVENT
+BEGIN:VEVENT
+UID:3a1ec9bd777f4173869506120b312a2647d66136@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261112T183000Z
+DTEND:20261112T201000Z
+SUMMARY:Die Deutsche Bahn AG
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 40 min\nkeine Pause\nhttps://www.schauspiel.koeln/p
+ roduktion/die-deutsche-bahn-ag
+URL:https://www.schauspiel.koeln/produktion/die-deutsche-bahn-ag
+END:VEVENT
+BEGIN:VEVENT
+UID:6642408c6a3781d70fc0abcb5220e3b57d0aefa0@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261110T183000Z
+DTEND:20261110T201500Z
+SUMMARY:Tag und Nacht
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 45 min\nhttps://www.schauspiel.koeln/produktion/tag
+ -und-nacht
+URL:https://www.schauspiel.koeln/produktion/tag-und-nacht
+END:VEVENT
+BEGIN:VEVENT
+UID:98ec9bf376208776877ac213a3ab88b4a95821d8@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261118T183000Z
+DTEND:20261118T201500Z
+SUMMARY:Tag und Nacht
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 45 min\nhttps://www.schauspiel.koeln/produktion/tag
+ -und-nacht
+URL:https://www.schauspiel.koeln/produktion/tag-und-nacht
+END:VEVENT
+BEGIN:VEVENT
+UID:ded4ba217d4f31a2aefc9c424347b34d65e6de41@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261117T163000Z
+DTEND:20261117T193000Z
+SUMMARY:Neuland: Szenische Demokratie
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 3 h 00 min\nhttps://www.schauspiel.koeln/produktion/neu
+ land-szenische-demokratie
+URL:https://www.schauspiel.koeln/produktion/neuland-szenische-demokratie
+END:VEVENT
+BEGIN:VEVENT
+UID:d2c9151f85c1893b2a9c1ace0f15fe7c99343878@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261119T183000Z
+DTEND:20261119T203000Z
+SUMMARY:Eine neue Recherche
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:https://www.schauspiel.koeln/produktion/eine-neue-recherche
+URL:https://www.schauspiel.koeln/produktion/eine-neue-recherche
+END:VEVENT
+BEGIN:VEVENT
+UID:fc843e962fdb0dfd68378ca95dfef2df2ef3b298@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261122T100000Z
+DTEND:20261122T120000Z
+SUMMARY:Buch für die Stadt
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:https://www.schauspiel.koeln/produktion/buch-fuer-die-stadt
+URL:https://www.schauspiel.koeln/produktion/buch-fuer-die-stadt
+END:VEVENT
+BEGIN:VEVENT
+UID:e9839a8ff9bde9a933e16eb7025d7a7aabc550fd@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261122T170000Z
+DTEND:20261122T185000Z
+SUMMARY:Vergeltung
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause\nhttps://www.schauspiel.koeln/p
+ roduktion/vergeltung
+URL:https://www.schauspiel.koeln/produktion/vergeltung
+END:VEVENT
+BEGIN:VEVENT
+UID:6514403137deed305123b75dc444b1ca0299e14a@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261203T183000Z
+DTEND:20261203T200000Z
+SUMMARY:Baby\, Don't give up
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 30 min\nkeine Pause\nhttps://www.schauspiel.koeln/p
+ roduktion/baby-dont-give
+URL:https://www.schauspiel.koeln/produktion/baby-dont-give
+END:VEVENT
+BEGIN:VEVENT
+UID:78021e66e8502969f950b18661a993b464416c23@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20270131T170000Z
+DTEND:20270131T183000Z
+SUMMARY:Baby\, Don't give up
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 30 min\nkeine Pause\nhttps://www.schauspiel.koeln/p
+ roduktion/baby-dont-give
+URL:https://www.schauspiel.koeln/produktion/baby-dont-give
+END:VEVENT
+BEGIN:VEVENT
+UID:0ccf832bad9cb2b8ee9faead6b1532dff5d0538c@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261207T183000Z
+DTEND:20261207T203000Z
+SUMMARY:Lesung mit Michel Friedman und Isabel Schayani
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:https://www.schauspiel.koeln/produktion/lesung-mit-michel-frie
+ dman-und-isabel-schayani
+URL:https://www.schauspiel.koeln/produktion/lesung-mit-michel-friedman-und
+ -isabel-schayani
+END:VEVENT
+BEGIN:VEVENT
+UID:4a1786ef07eb3f20dfd52507d1f7c97ebe2ca523@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261218T183000Z
+DTEND:20261218T193000Z
+SUMMARY:Rave Lucid
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 00 min\nhttps://www.schauspiel.koeln/produktion/rav
+ e-lucid
+URL:https://www.schauspiel.koeln/produktion/rave-lucid
+END:VEVENT
+BEGIN:VEVENT
+UID:720315d140c470c7fd8f7fecda7f33d2e2eaa992@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20261219T183000Z
+DTEND:20261219T193000Z
+SUMMARY:Rave Lucid
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 00 min\nhttps://www.schauspiel.koeln/produktion/rav
+ e-lucid
+URL:https://www.schauspiel.koeln/produktion/rave-lucid
+END:VEVENT
+BEGIN:VEVENT
+UID:f5eb8b84c07fecff67ae78365a2c0a779152ab18@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20270129T183000Z
+DTEND:20270129T203000Z
+SUMMARY:Antigone
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:https://www.schauspiel.koeln/produktion/antigone
+URL:https://www.schauspiel.koeln/produktion/antigone
+END:VEVENT
+BEGIN:VEVENT
+UID:28439623e9285d249165a981062b47f568764081@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20270212T183000Z
+DTEND:20270212T202100Z
+SUMMARY:Sleepless\, New Work\, SAABA
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 51 min\nmit Pause\nhttps://www.schauspiel.koeln/pro
+ duktion/sleepless-new-work-saaba
+URL:https://www.schauspiel.koeln/produktion/sleepless-new-work-saaba
+END:VEVENT
+BEGIN:VEVENT
+UID:27851b9371a274bc34c08aa02e461b8f949e5103@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20270213T183000Z
+DTEND:20270213T202100Z
+SUMMARY:Sleepless\, New Work\, SAABA
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 51 min\nmit Pause\nhttps://www.schauspiel.koeln/pro
+ duktion/sleepless-new-work-saaba
+URL:https://www.schauspiel.koeln/produktion/sleepless-new-work-saaba
+END:VEVENT
+BEGIN:VEVENT
+UID:cfd9f0ec93c0bfd1edd60f053f0118fe1616281f@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20270415T173000Z
+DTEND:20270415T193000Z
+SUMMARY:Inter Alia
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:https://www.schauspiel.koeln/produktion/inter-alia
+URL:https://www.schauspiel.koeln/produktion/inter-alia
+END:VEVENT
+BEGIN:VEVENT
+UID:00419a737b12fc95641595c1f59c45c52bfc53ba@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20270417T173000Z
+DTEND:20270417T183000Z
+SUMMARY:Calentamiento
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 00 min\nhttps://www.schauspiel.koeln/produktion/cal
+ entamiento
+URL:https://www.schauspiel.koeln/produktion/calentamiento
+END:VEVENT
+BEGIN:VEVENT
+UID:8a3a5960996a3dca69bb26888be450ade82bcbf6@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20270418T173000Z
+DTEND:20270418T183000Z
+SUMMARY:Calentamiento
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 1 h 00 min\nhttps://www.schauspiel.koeln/produktion/cal
+ entamiento
+URL:https://www.schauspiel.koeln/produktion/calentamiento
+END:VEVENT
+BEGIN:VEVENT
+UID:3932d551cd24129ef56bc9c828f8443530204d02@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20270508T173000Z
+DTEND:20270508T193000Z
+SUMMARY:Denk ich an Deutschland in der Nacht
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:https://www.schauspiel.koeln/produktion/denk-ich-deutschland-d
+ er-nacht
+URL:https://www.schauspiel.koeln/produktion/denk-ich-deutschland-der-nacht
+END:VEVENT
+BEGIN:VEVENT
+UID:8148ddee0d2a946b8844b6dad4d367512fc42019@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20270520T173000Z
+DTEND:20270520T194500Z
+SUMMARY:Hammer
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 2 h 15 min\nmit Pause\nhttps://www.schauspiel.koeln/pro
+ duktion/hammer
+URL:https://www.schauspiel.koeln/produktion/hammer
+END:VEVENT
+BEGIN:VEVENT
+UID:f079f5c203c1fac8cb9103773a14134f2facc6db@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20270521T173000Z
+DTEND:20270521T194500Z
+SUMMARY:Hammer
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:Dauer: 2 h 15 min\nmit Pause\nhttps://www.schauspiel.koeln/pro
+ duktion/hammer
+URL:https://www.schauspiel.koeln/produktion/hammer
+END:VEVENT
+BEGIN:VEVENT
+UID:8f72884966cba1189e7c244c6340924253f16a2e@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20270529T173000Z
+DTEND:20270529T193000Z
+SUMMARY:Karneval des Scheiterns
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:https://www.schauspiel.koeln/produktion/karneval-des-scheitern
+ s
+URL:https://www.schauspiel.koeln/produktion/karneval-des-scheiterns
+END:VEVENT
+BEGIN:VEVENT
+UID:f878d5ac780e9a150e7f09c53a139dad064cf0f8@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20270605T173000Z
+DTEND:20270605T193000Z
+SUMMARY:Der Zauderberg
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:https://www.schauspiel.koeln/produktion/der-zauderberg
+URL:https://www.schauspiel.koeln/produktion/der-zauderberg
+END:VEVENT
+BEGIN:VEVENT
+UID:fc15a5b22a967b9308a9acd1f00eeaf7a8286349@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20270616T173000Z
+DTEND:20270616T193000Z
+SUMMARY:Blimund
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:https://www.schauspiel.koeln/produktion/blimund
+URL:https://www.schauspiel.koeln/produktion/blimund
+END:VEVENT
+BEGIN:VEVENT
+UID:d0d4a6c40a0017d0846fdfcb85d51b3502937298@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20270617T173000Z
+DTEND:20270617T193000Z
+SUMMARY:Blimund
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:https://www.schauspiel.koeln/produktion/blimund
+URL:https://www.schauspiel.koeln/produktion/blimund
+END:VEVENT
+BEGIN:VEVENT
+UID:0a31bff8fd9affc1d0bd7ca939db981f8ed5c45e@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20270618T173000Z
+DTEND:20270618T193000Z
+SUMMARY:Blimund
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:https://www.schauspiel.koeln/produktion/blimund
+URL:https://www.schauspiel.koeln/produktion/blimund
+END:VEVENT
+BEGIN:VEVENT
+UID:c77559d3acc4c98c7460a7887c18ef0164a70e26@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20270717T173000Z
+DTEND:20270717T193000Z
+SUMMARY:Icon/Icons
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:https://www.schauspiel.koeln/produktion/iconicons
+URL:https://www.schauspiel.koeln/produktion/iconicons
+END:VEVENT
+BEGIN:VEVENT
+UID:a00dde4576267113d5cf6a7c4d04b848ec308f21@schauspiel-koeln-ical
+DTSTAMP:20261018T212840Z
+DTSTART:20270718T160000Z
+DTEND:20270718T180000Z
+SUMMARY:Icon/Icons
+LOCATION:Schauspiel Köln – Schauspielhaus\, Offenbachplatz\, 50667 Köl
+ n
+DESCRIPTION:https://www.schauspiel.koeln/produktion/iconicons
+URL:https://www.schauspiel.koeln/produktion/iconicons
+END:VEVENT
+END:VCALENDAR
