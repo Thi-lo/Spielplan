@@ -41,46 +41,10 @@ DESCRIPTION:
 URL:https://www.schauspiel.koeln/produktion/kaspar
 END:VEVENT
 BEGIN:VEVENT
-UID:1d2904fe7688f42be5695eac8675e304ea9d1237@schauspiel-koeln-ical
-DTSTAMP:20261020T094528Z
-DTSTART:20261108T170000Z
-DTEND:20261108T190000Z
-SUMMARY:Kaspar
-DESCRIPTION:
-URL:https://www.schauspiel.koeln/produktion/kaspar
-END:VEVENT
-BEGIN:VEVENT
-UID:6c83c1488ee049a97343fef5102b9d0422a1426c@schauspiel-koeln-ical
-DTSTAMP:20261020T094528Z
-DTSTART:20261113T183000Z
-DTEND:20261113T203000Z
-SUMMARY:Kaspar
-DESCRIPTION:
-URL:https://www.schauspiel.koeln/produktion/kaspar
-END:VEVENT
-BEGIN:VEVENT
-UID:cf6e5b3da880b0d81f458ee13d372a2f569321ae@schauspiel-koeln-ical
-DTSTAMP:20261020T094528Z
-DTSTART:20261128T183000Z
-DTEND:20261128T203000Z
-SUMMARY:Kaspar
-DESCRIPTION:
-URL:https://www.schauspiel.koeln/produktion/kaspar
-END:VEVENT
-BEGIN:VEVENT
 UID:832719dd8bc72c57806bcec278aa540a880f9aea@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20261101T180000Z
 DTEND:20261101T194500Z
-SUMMARY:Imagine
-DESCRIPTION:Dauer: 1 h 45 min\nkeine Pause
-URL:https://www.schauspiel.koeln/produktion/imagine
-END:VEVENT
-BEGIN:VEVENT
-UID:3f58b225f295fa21a8dbb14c3b6f8f67bdbdb694@schauspiel-koeln-ical
-DTSTAMP:20261020T094528Z
-DTSTART:20261114T183000Z
-DTEND:20261114T201500Z
 SUMMARY:Imagine
 DESCRIPTION:Dauer: 1 h 45 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/imagine
@@ -113,15 +77,6 @@ DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/in-bester-lage
 END:VEVENT
 BEGIN:VEVENT
-UID:61295fd6df3bee3eea7ac5b54872f39780830b84@schauspiel-koeln-ical
-DTSTAMP:20261020T094528Z
-DTSTART:20261115T183000Z
-DTEND:20261115T202000Z
-SUMMARY:In bester Lage
-DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause
-URL:https://www.schauspiel.koeln/produktion/in-bester-lage
-END:VEVENT
-BEGIN:VEVENT
 UID:b2bf7c60994e8456e7eb10a2ccbe8328beb14ca1@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20261107T183000Z
@@ -129,6 +84,24 @@ DTEND:20261107T201000Z
 SUMMARY:Die Deutsche Bahn AG
 DESCRIPTION:Dauer: 1 h 40 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/die-deutsche-bahn-ag
+END:VEVENT
+BEGIN:VEVENT
+UID:1d2904fe7688f42be5695eac8675e304ea9d1237@schauspiel-koeln-ical
+DTSTAMP:20261020T094528Z
+DTSTART:20261108T170000Z
+DTEND:20261108T190000Z
+SUMMARY:Kaspar
+DESCRIPTION:
+URL:https://www.schauspiel.koeln/produktion/kaspar
+END:VEVENT
+BEGIN:VEVENT
+UID:6642408c6a3781d70fc0abcb5220e3b57d0aefa0@schauspiel-koeln-ical
+DTSTAMP:20261020T094528Z
+DTSTART:20261110T183000Z
+DTEND:20261110T201500Z
+SUMMARY:Tag und Nacht
+DESCRIPTION:Dauer: 1 h 45 min
+URL:https://www.schauspiel.koeln/produktion/tag-und-nacht
 END:VEVENT
 BEGIN:VEVENT
 UID:3a1ec9bd777f4173869506120b312a2647d66136@schauspiel-koeln-ical
@@ -140,13 +113,31 @@ DESCRIPTION:Dauer: 1 h 40 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/die-deutsche-bahn-ag
 END:VEVENT
 BEGIN:VEVENT
-UID:6642408c6a3781d70fc0abcb5220e3b57d0aefa0@schauspiel-koeln-ical
+UID:6c83c1488ee049a97343fef5102b9d0422a1426c@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
-DTSTART:20261110T183000Z
-DTEND:20261110T201500Z
-SUMMARY:Tag und Nacht
-DESCRIPTION:Dauer: 1 h 45 min
-URL:https://www.schauspiel.koeln/produktion/tag-und-nacht
+DTSTART:20261113T183000Z
+DTEND:20261113T203000Z
+SUMMARY:Kaspar
+DESCRIPTION:
+URL:https://www.schauspiel.koeln/produktion/kaspar
+END:VEVENT
+BEGIN:VEVENT
+UID:3f58b225f295fa21a8dbb14c3b6f8f67bdbdb694@schauspiel-koeln-ical
+DTSTAMP:20261020T094528Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:Imagine
+DESCRIPTION:Dauer: 1 h 45 min\nkeine Pause
+URL:https://www.schauspiel.koeln/produktion/imagine
+END:VEVENT
+BEGIN:VEVENT
+UID:61295fd6df3bee3eea7ac5b54872f39780830b84@schauspiel-koeln-ical
+DTSTAMP:20261020T094528Z
+DTSTART:20261115T183000Z
+DTEND:20261115T202000Z
+SUMMARY:In bester Lage
+DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause
+URL:https://www.schauspiel.koeln/produktion/in-bester-lage
 END:VEVENT
 BEGIN:VEVENT
 UID:98ec9bf376208776877ac213a3ab88b4a95821d8@schauspiel-koeln-ical
@@ -185,19 +176,19 @@ DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/vergeltung
 END:VEVENT
 BEGIN:VEVENT
+UID:cf6e5b3da880b0d81f458ee13d372a2f569321ae@schauspiel-koeln-ical
+DTSTAMP:20261020T094528Z
+DTSTART:20261128T183000Z
+DTEND:20261128T203000Z
+SUMMARY:Kaspar
+DESCRIPTION:
+URL:https://www.schauspiel.koeln/produktion/kaspar
+END:VEVENT
+BEGIN:VEVENT
 UID:6514403137deed305123b75dc444b1ca0299e14a@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20261203T183000Z
 DTEND:20261203T200000Z
-SUMMARY:Baby\, Don't give up
-DESCRIPTION:Dauer: 1 h 30 min\nkeine Pause
-URL:https://www.schauspiel.koeln/produktion/baby-dont-give
-END:VEVENT
-BEGIN:VEVENT
-UID:78021e66e8502969f950b18661a993b464416c23@schauspiel-koeln-ical
-DTSTAMP:20261020T094528Z
-DTSTART:20270131T170000Z
-DTEND:20270131T183000Z
 SUMMARY:Baby\, Don't give up
 DESCRIPTION:Dauer: 1 h 30 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/baby-dont-give
@@ -238,6 +229,15 @@ DTEND:20270129T203000Z
 SUMMARY:Antigone
 DESCRIPTION:
 URL:https://www.schauspiel.koeln/produktion/antigone
+END:VEVENT
+BEGIN:VEVENT
+UID:78021e66e8502969f950b18661a993b464416c23@schauspiel-koeln-ical
+DTSTAMP:20261020T094528Z
+DTSTART:20270131T170000Z
+DTEND:20270131T183000Z
+SUMMARY:Baby\, Don't give up
+DESCRIPTION:Dauer: 1 h 30 min\nkeine Pause
+URL:https://www.schauspiel.koeln/produktion/baby-dont-give
 END:VEVENT
 BEGIN:VEVENT
 UID:28439623e9285d249165a981062b47f568764081@schauspiel-koeln-ical
@@ -373,5 +373,25 @@ DTEND:20270718T180000Z
 SUMMARY:Icon/Icons
 DESCRIPTION:
 URL:https://www.schauspiel.koeln/produktion/iconicons
+END:VEVENT
+BEGIN:VEVENT
+UID:8ecf169bf3895401dc60f0c2033a6fb3c519a4f1@schauspiel-koeln-ical
+DTSTAMP:20261021T073903Z
+DTSTART:20271112T183000Z
+DTEND:20271112T203000Z
+SUMMARY:Moka Efti Orchestra & Benno Führmann
+DESCRIPTION:
+URL:https://www.schauspiel.koeln/produktion/moka-efti-orchestra-benno-fueh
+ rmann
+END:VEVENT
+BEGIN:VEVENT
+UID:c7f5144181d4ba1cd406bf2e99bb65496dec7724@schauspiel-koeln-ical
+DTSTAMP:20261021T073903Z
+DTSTART:20271113T110000Z
+DTEND:20271113T130000Z
+SUMMARY:Moka Efti Orchestra & Benno Führmann
+DESCRIPTION:
+URL:https://www.schauspiel.koeln/produktion/moka-efti-orchestra-benno-fueh
+ rmann
 END:VEVENT
 END:VCALENDAR
