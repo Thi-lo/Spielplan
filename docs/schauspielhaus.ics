@@ -5,15 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Schauspiel Köln – Schauspielhaus
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:f4164aee7b3868b4b7f679c4afb25deeb27ca36f@schauspiel-koeln-ical
-DTSTAMP:20261020T094528Z
-DTSTART:20261025T170000Z
-DTEND:20261025T180000Z
-SUMMARY:Delay the Sadness
-DESCRIPTION:Dauer: 1 h 00 min\nkeine Pause
-URL:https://www.schauspiel.koeln/produktion/delay-sadness
-END:VEVENT
-BEGIN:VEVENT
 UID:3f1bfda746a09414db0993f1f89c3e56bb4085e6@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20261031T183000Z
