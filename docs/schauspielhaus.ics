@@ -149,6 +149,15 @@ DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/vergeltung
 END:VEVENT
 BEGIN:VEVENT
+UID:3817e7479ea5badd77c4eeca9cdf0e428a7fc739@schauspiel-koeln-ical
+DTSTAMP:20261029T111341Z
+DTSTART:20261201T183000Z
+DTEND:20261201T201500Z
+SUMMARY:Tag und Nacht
+DESCRIPTION:Dauer: 1 h 45 min
+URL:https://www.schauspiel.koeln/produktion/tag-und-nacht
+END:VEVENT
+BEGIN:VEVENT
 UID:6514403137deed305123b75dc444b1ca0299e14a@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20261203T183000Z
@@ -156,6 +165,24 @@ DTEND:20261203T200000Z
 SUMMARY:Baby\, Don't give up
 DESCRIPTION:Dauer: 1 h 30 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/baby-dont-give
+END:VEVENT
+BEGIN:VEVENT
+UID:50a3a58159886fab6926f19af715f4ad76f7edf8@schauspiel-koeln-ical
+DTSTAMP:20261029T111341Z
+DTSTART:20261204T183000Z
+DTEND:20261204T201000Z
+SUMMARY:Die Deutsche Bahn AG
+DESCRIPTION:Dauer: 1 h 40 min\nkeine Pause
+URL:https://www.schauspiel.koeln/produktion/die-deutsche-bahn-ag
+END:VEVENT
+BEGIN:VEVENT
+UID:a1835aa47576293486161f6e53c77a328f85d3f9@schauspiel-koeln-ical
+DTSTAMP:20261029T111341Z
+DTSTART:20261205T183000Z
+DTEND:20261205T203000Z
+SUMMARY:Kaspar
+DESCRIPTION:
+URL:https://www.schauspiel.koeln/produktion/kaspar
 END:VEVENT
 BEGIN:VEVENT
 UID:0ccf832bad9cb2b8ee9faead6b1532dff5d0538c@schauspiel-koeln-ical
@@ -168,22 +195,103 @@ URL:https://www.schauspiel.koeln/produktion/lesung-mit-michel-friedman-und
  -isabel-schayani
 END:VEVENT
 BEGIN:VEVENT
-UID:4a1786ef07eb3f20dfd52507d1f7c97ebe2ca523@schauspiel-koeln-ical
-DTSTAMP:20261020T094528Z
-DTSTART:20261218T183000Z
-DTEND:20261218T193000Z
-SUMMARY:Rave Lucid
-DESCRIPTION:Dauer: 1 h 00 min
-URL:https://www.schauspiel.koeln/produktion/rave-lucid
+UID:9cdaefbb96ee042ad51fa6ee32a21ed53c7d8c83@schauspiel-koeln-ical
+DTSTAMP:20261029T111341Z
+DTSTART:20261208T183000Z
+DTEND:20261208T202000Z
+SUMMARY:In bester Lage
+DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause
+URL:https://www.schauspiel.koeln/produktion/in-bester-lage
 END:VEVENT
 BEGIN:VEVENT
-UID:720315d140c470c7fd8f7fecda7f33d2e2eaa992@schauspiel-koeln-ical
-DTSTAMP:20261020T094528Z
-DTSTART:20261219T183000Z
-DTEND:20261219T193000Z
-SUMMARY:Rave Lucid
-DESCRIPTION:Dauer: 1 h 00 min
-URL:https://www.schauspiel.koeln/produktion/rave-lucid
+UID:bc19025071eba3b87646c4794b7662c2535f7951@schauspiel-koeln-ical
+DTSTAMP:20261029T111341Z
+DTSTART:20261209T183000Z
+DTEND:20261209T202000Z
+SUMMARY:Vergeltung
+DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause
+URL:https://www.schauspiel.koeln/produktion/vergeltung
+END:VEVENT
+BEGIN:VEVENT
+UID:6358351a21b1416550fe34eedfdd9668396362d1@schauspiel-koeln-ical
+DTSTAMP:20261029T111341Z
+DTSTART:20261210T183000Z
+DTEND:20261210T203000Z
+SUMMARY:Kaspar
+DESCRIPTION:
+URL:https://www.schauspiel.koeln/produktion/kaspar
+END:VEVENT
+BEGIN:VEVENT
+UID:a0b4ec162b81fbe0cdb4d4d449019f216ccb342a@schauspiel-koeln-ical
+DTSTAMP:20261029T111341Z
+DTSTART:20261211T183000Z
+DTEND:20261211T201500Z
+SUMMARY:Imagine
+DESCRIPTION:Dauer: 1 h 45 min\nkeine Pause
+URL:https://www.schauspiel.koeln/produktion/imagine
+END:VEVENT
+BEGIN:VEVENT
+UID:1d48012b96b94c9f41bb77a4adb194f8a78e1fe2@schauspiel-koeln-ical
+DTSTAMP:20261029T111341Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:Tag und Nacht
+DESCRIPTION:Dauer: 1 h 45 min
+URL:https://www.schauspiel.koeln/produktion/tag-und-nacht
+END:VEVENT
+BEGIN:VEVENT
+UID:183d6357ece0ed2423ea125ebb215c3703eed935@schauspiel-koeln-ical
+DTSTAMP:20261029T111341Z
+DTSTART:20261215T183000Z
+DTEND:20261215T203000Z
+SUMMARY:Kaspar
+DESCRIPTION:
+URL:https://www.schauspiel.koeln/produktion/kaspar
+END:VEVENT
+BEGIN:VEVENT
+UID:a9befc56dc764e4c972afff2c75332362c9d1950@schauspiel-koeln-ical
+DTSTAMP:20261029T111341Z
+DTSTART:20261216T183000Z
+DTEND:20261216T201000Z
+SUMMARY:Die Deutsche Bahn AG
+DESCRIPTION:Dauer: 1 h 40 min\nkeine Pause
+URL:https://www.schauspiel.koeln/produktion/die-deutsche-bahn-ag
+END:VEVENT
+BEGIN:VEVENT
+UID:7d3206ab2e2bd8bfb8558b6832c2db7535e6c45c@schauspiel-koeln-ical
+DTSTAMP:20261029T111341Z
+DTSTART:20261223T183000Z
+DTEND:20261223T203000Z
+SUMMARY:Kaspar
+DESCRIPTION:
+URL:https://www.schauspiel.koeln/produktion/kaspar
+END:VEVENT
+BEGIN:VEVENT
+UID:777a0773437b52b5ddfb17feb4658b67bb7f12f8@schauspiel-koeln-ical
+DTSTAMP:20261029T111341Z
+DTSTART:20261227T170000Z
+DTEND:20261227T184500Z
+SUMMARY:Tag und Nacht
+DESCRIPTION:Dauer: 1 h 45 min
+URL:https://www.schauspiel.koeln/produktion/tag-und-nacht
+END:VEVENT
+BEGIN:VEVENT
+UID:f3317d728a33070b7af6fdfae0e0b7a8c39ed175@schauspiel-koeln-ical
+DTSTAMP:20261029T111341Z
+DTSTART:20261230T183000Z
+DTEND:20261230T201000Z
+SUMMARY:Die Deutsche Bahn AG
+DESCRIPTION:Dauer: 1 h 40 min\nkeine Pause
+URL:https://www.schauspiel.koeln/produktion/die-deutsche-bahn-ag
+END:VEVENT
+BEGIN:VEVENT
+UID:5c90c9d24081ffc98885acf82964d8ff884c7ab3@schauspiel-koeln-ical
+DTSTAMP:20261029T111341Z
+DTSTART:20261231T180000Z
+DTEND:20261231T195000Z
+SUMMARY:In bester Lage
+DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause
+URL:https://www.schauspiel.koeln/produktion/in-bester-lage
 END:VEVENT
 BEGIN:VEVENT
 UID:f5eb8b84c07fecff67ae78365a2c0a779152ab18@schauspiel-koeln-ical
@@ -204,22 +312,24 @@ DESCRIPTION:Dauer: 1 h 30 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/baby-dont-give
 END:VEVENT
 BEGIN:VEVENT
-UID:28439623e9285d249165a981062b47f568764081@schauspiel-koeln-ical
-DTSTAMP:20261020T094528Z
+UID:51f385277f5fa0de63539dd9567f500768834304@schauspiel-koeln-ical
+DTSTAMP:20261029T111341Z
 DTSTART:20270212T183000Z
 DTEND:20270212T202100Z
-SUMMARY:Sleepless\, New Work\, SAABA
+SUMMARY:Sleepless\, Shut Your Eyes And See\, SAABA
 DESCRIPTION:Dauer: 1 h 51 min\nmit Pause
-URL:https://www.schauspiel.koeln/produktion/sleepless-new-work-saaba
+URL:https://www.schauspiel.koeln/produktion/sleepless-shut-your-eyes-and-s
+ ee-saaba
 END:VEVENT
 BEGIN:VEVENT
-UID:27851b9371a274bc34c08aa02e461b8f949e5103@schauspiel-koeln-ical
-DTSTAMP:20261020T094528Z
+UID:6428fa95dca7a70f73028815a285c072179f212c@schauspiel-koeln-ical
+DTSTAMP:20261029T111341Z
 DTSTART:20270213T183000Z
 DTEND:20270213T202100Z
-SUMMARY:Sleepless\, New Work\, SAABA
+SUMMARY:Sleepless\, Shut Your Eyes And See\, SAABA
 DESCRIPTION:Dauer: 1 h 51 min\nmit Pause
-URL:https://www.schauspiel.koeln/produktion/sleepless-new-work-saaba
+URL:https://www.schauspiel.koeln/produktion/sleepless-shut-your-eyes-and-s
+ ee-saaba
 END:VEVENT
 BEGIN:VEVENT
 UID:cfd9f0ec93c0bfd1edd60f053f0118fe1616281f@schauspiel-koeln-ical

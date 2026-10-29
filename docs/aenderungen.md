@@ -2,6 +2,34 @@
 
 Neueste Einträge stehen oben.
 
+## 29.10.2026 – 16 neu, 4 nicht mehr enthalten, 0 geändert
+
+**Neu**
+
+- [Tag und Nacht](https://www.schauspiel.koeln/produktion/tag-und-nacht): Di 01.12.2026, 19:30 Uhr
+- [Die Deutsche Bahn AG](https://www.schauspiel.koeln/produktion/die-deutsche-bahn-ag): Fr 04.12.2026, 19:30 Uhr
+- [Kaspar](https://www.schauspiel.koeln/produktion/kaspar): Sa 05.12.2026, 19:30 Uhr
+- [In bester Lage](https://www.schauspiel.koeln/produktion/in-bester-lage): Di 08.12.2026, 19:30 Uhr
+- [Vergeltung](https://www.schauspiel.koeln/produktion/vergeltung): Mi 09.12.2026, 19:30 Uhr
+- [Kaspar](https://www.schauspiel.koeln/produktion/kaspar): Do 10.12.2026, 19:30 Uhr
+- [Imagine](https://www.schauspiel.koeln/produktion/imagine): Fr 11.12.2026, 19:30 Uhr
+- [Tag und Nacht](https://www.schauspiel.koeln/produktion/tag-und-nacht): Sa 12.12.2026, 19:30 Uhr
+- [Kaspar](https://www.schauspiel.koeln/produktion/kaspar): Di 15.12.2026, 19:30 Uhr
+- [Die Deutsche Bahn AG](https://www.schauspiel.koeln/produktion/die-deutsche-bahn-ag): Mi 16.12.2026, 19:30 Uhr
+- [Kaspar](https://www.schauspiel.koeln/produktion/kaspar): Mi 23.12.2026, 19:30 Uhr
+- [Tag und Nacht](https://www.schauspiel.koeln/produktion/tag-und-nacht): So 27.12.2026, 18:00 Uhr
+- [Die Deutsche Bahn AG](https://www.schauspiel.koeln/produktion/die-deutsche-bahn-ag): Mi 30.12.2026, 19:30 Uhr
+- [In bester Lage](https://www.schauspiel.koeln/produktion/in-bester-lage): Do 31.12.2026, 19:00 Uhr
+- [Sleepless, Shut Your Eyes And See, SAABA](https://www.schauspiel.koeln/produktion/sleepless-shut-your-eyes-and-see-saaba): Fr 12.02.2027, 19:30 Uhr
+- [Sleepless, Shut Your Eyes And See, SAABA](https://www.schauspiel.koeln/produktion/sleepless-shut-your-eyes-and-see-saaba): Sa 13.02.2027, 19:30 Uhr
+
+**Nicht mehr enthalten (abgesagt oder verschoben)**
+
+- [Rave Lucid](https://www.schauspiel.koeln/produktion/rave-lucid): Fr 18.12.2026, 19:30 Uhr
+- [Rave Lucid](https://www.schauspiel.koeln/produktion/rave-lucid): Sa 19.12.2026, 19:30 Uhr
+- [Sleepless, New Work, SAABA](https://www.schauspiel.koeln/produktion/sleepless-new-work-saaba): Fr 12.02.2027, 19:30 Uhr
+- [Sleepless, New Work, SAABA](https://www.schauspiel.koeln/produktion/sleepless-new-work-saaba): Sa 13.02.2027, 19:30 Uhr
+
 ## 27.10.2026 – 0 neu, 1 nicht mehr enthalten, 0 geändert
 
 **Nicht mehr enthalten (abgesagt oder verschoben)**
