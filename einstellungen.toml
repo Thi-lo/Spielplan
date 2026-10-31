@@ -1,0 +1,84 @@
+# Einstellungen für schauspiel_koeln_ical.py
+# Zeilen mit # davor sind Kommentare. Text steht in "Anführungszeichen",
+# Listen in [eckigen Klammern], z. B. ["Fr", "Sa"]. Eine leere Liste [] oder
+# ein leerer Text "" heißt: nicht verwenden.
+
+
+[auswahl]
+# Spielstätten, genau so geschrieben wie im Kölender-Filter. Mehrere sind möglich,
+# z. B. ["Schauspielhaus", "Kleines Haus"]. Verfügbare Namen zeigt der Befehl
+#   python3 schauspiel_koeln_ical.py --spielstaetten
+# "Schauspielhaus" und "Schauspielhaus Foyer" sind getrennte Spielstätten.
+# Leere Liste [] = alle Spielstätten.
+spielstaetten = ["Schauspielhaus"]
+
+# Nur Termine, deren Titel mindestens eines dieser Wörter enthält (leer = alle)
+stichwoerter_einschliessen = []
+
+# Termine weglassen, wenn eines dieser Wörter im Titel, im Zusatz (z. B. Führung)
+# oder im Hinweis (z. B. Schulvorstellung) vorkommt
+stichwoerter_ausschliessen = []
+
+# Zeitraum: entweder feste Daten (Format JJJJ-MM-TT) ...
+von_datum = ""
+bis_datum = ""
+# ... und/oder nur die nächsten N Monate (0 = unbegrenzt)
+naechste_monate = 0
+
+# Uhrzeit des Beginns, Format "HH:MM" (leer = egal)
+# Beispiel: fruehestens_uhrzeit = "15:00" lässt Vormittagsvorstellungen weg
+fruehestens_uhrzeit = ""
+spaetestens_uhrzeit = ""
+
+# Wochentage: "Mo", "Di", "Mi", "Do", "Fr", "Sa", "So" (leer = alle)
+wochentage = []
+
+# Vergangene Termine im Kalender behalten:
+#   "unbegrenzt" = nie löschen, Zahl = so viele Monate zurück, 0 = nicht behalten
+# Termine, die das Theater absagt, bevor sie stattfinden, verschwinden trotzdem.
+vergangene_behalten_monate = "unbegrenzt"
+
+
+[termin]
+kalendername = "Schauspiel Köln – Schauspielhaus"
+
+# Ort im Termin. Leer = kein Ort. {spielstaette} setzt den Namen der Spielstätte ein.
+ort = ""
+
+# Aufbau des Titels. Platzhalter: {kuerzel} = z. B. [PREM], {titel}, {zusatz} = voller Zusatz
+titel_format = "{kuerzel} {titel}"
+
+# Länge eines Termins, wenn keine Dauer gefunden wird (in Minuten)
+standarddauer_minuten = 120
+
+# true = Dauer von der Produktionsseite lesen (genauer, dauert länger)
+# false = überall die Standarddauer verwenden (schneller)
+dauer_von_produktionsseite = true
+
+# Zusätze ohne eigenes Kürzel (unten) werden großgeschrieben und auf so viele Zeichen gekürzt
+unbekannter_zusatz_max_zeichen = 8
+
+
+[notiz]
+# Was in der Notiz des Termins steht (true = ja, false = nein)
+zusatz = true     # z. B. "Zusatz: Premiere"
+hinweis = true    # z. B. "19 Uhr Einführung"
+dauer = true
+pause = true
+
+
+[kuerzel]
+# Kürzel für die Zusätze im Titel, die der Kölender nennt. Links der Zusatz,
+# rechts das Kürzel (erscheint im Titel in eckigen Klammern).
+# Ein leeres Kürzel "" bedeutet: im Titel nichts anzeigen (in der Notiz bleibt es).
+Premiere = "PREM"
+"Köln-Premiere" = "KÖLN-PREM"
+"Uraufführung" = "UA"
+Wiederaufnahme = "WA"
+Tanzgastspiel = "TANZ"
+Gastspiel = "GAST"
+Lesung = "LESUNG"
+Konzert = "KONZERT"
+"Führung" = "FÜHR"
+Party = "PARTY"
+Workshop = "WORKSHOP"
