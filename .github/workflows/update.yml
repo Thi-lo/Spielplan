@@ -24,7 +24,7 @@ jobs:
       - name: Kalender erzeugen
         run: |
           mkdir -p docs
-          python schauspiel_koeln_ical.py --debug --out docs/schauspielhaus.ics --log docs/aenderungen.md
+          python Spielplan-in-ical.py --debug --out docs/schauspielhaus.ics --log docs/aenderungen.md
 
       - name: Ergebnis speichern
         run: |
