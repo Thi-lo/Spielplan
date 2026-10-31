@@ -9,8 +9,9 @@ UID:3f1bfda746a09414db0993f1f89c3e56bb4085e6@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20261031T183000Z
 DTEND:20261031T202000Z
-SUMMARY:Kaspar
-DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause
+SUMMARY:[PREM] Kaspar
+DESCRIPTION:Zusatz: Premiere\n19 Uhr Einführung\nDauer: 1 h 50 min\nkeine
+  Pause
 URL:https://www.schauspiel.koeln/produktion/kaspar
 END:VEVENT
 BEGIN:VEVENT
@@ -19,7 +20,8 @@ DTSTAMP:20261020T094528Z
 DTSTART:20261101T180000Z
 DTEND:20261101T194500Z
 SUMMARY:Imagine
-DESCRIPTION:Dauer: 1 h 45 min\nkeine Pause
+DESCRIPTION:suitable for non-German-speakers | Nur noch wenige Vorstellung
+ en!\nDauer: 1 h 45 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/imagine
 END:VEVENT
 BEGIN:VEVENT
@@ -27,8 +29,10 @@ UID:d0bc9fb6b36d56d262bbcde6119f85461cff20eb@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20261104T183000Z
 DTEND:20261104T200000Z
-SUMMARY:Mal – Embriaguez Divina
-DESCRIPTION:Dauer: 1 h 30 min
+SUMMARY:[TANZ] Mal – Embriaguez Divina
+DESCRIPTION:Zusatz: Tanzgastspiel\n18.30 bewegte Einführung mit Lucia Nor
+ dhoff (Treffpunkt am Bühneneingang) | Anmeldung: info@tanz.koeln\nDauer:
+  1 h 30 min
 URL:https://www.schauspiel.koeln/produktion/mal-embriaguez-divina
 END:VEVENT
 BEGIN:VEVENT
@@ -36,8 +40,10 @@ UID:81e48085f30ed61595a213f48fb83c50d8eac4eb@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20261105T183000Z
 DTEND:20261105T200000Z
-SUMMARY:Mal – Embriaguez Divina
-DESCRIPTION:Dauer: 1 h 30 min
+SUMMARY:[TANZ] Mal – Embriaguez Divina
+DESCRIPTION:Zusatz: Tanzgastspiel\n18.30 bewegte Einführung mit Lucia Nor
+ dhoff (Treffpunkt am Bühneneingang) | Anmeldung: info@tanz.koeln | im An
+ schluss Publikumsgespräch\nDauer: 1 h 30 min
 URL:https://www.schauspiel.koeln/produktion/mal-embriaguez-divina
 END:VEVENT
 BEGIN:VEVENT
@@ -46,7 +52,9 @@ DTSTAMP:20261020T094528Z
 DTSTART:20261106T183000Z
 DTEND:20261106T202000Z
 SUMMARY:In bester Lage
-DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause
+DESCRIPTION:Eine Komödie über das Trauerspiel im Eigentum | mit Audiodes
+ kription | 18 Uhr Einführung mit Tastführung (Anmeldung: diversity@scha
+ uspiel.koeln)\nDauer: 1 h 50 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/in-bester-lage
 END:VEVENT
 BEGIN:VEVENT
@@ -55,7 +63,8 @@ DTSTAMP:20261020T094528Z
 DTSTART:20261107T183000Z
 DTEND:20261107T201000Z
 SUMMARY:Die Deutsche Bahn AG
-DESCRIPTION:Dauer: 1 h 40 min\nkeine Pause
+DESCRIPTION:Ein tragisch komischer Bühnenessay | 19 Uhr Einführung\nDaue
+ r: 1 h 40 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/die-deutsche-bahn-ag
 END:VEVENT
 BEGIN:VEVENT
@@ -64,7 +73,7 @@ DTSTAMP:20261020T094528Z
 DTSTART:20261108T170000Z
 DTEND:20261108T185000Z
 SUMMARY:Kaspar
-DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause
+DESCRIPTION:17.30 Uhr Einführung\nDauer: 1 h 50 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/kaspar
 END:VEVENT
 BEGIN:VEVENT
@@ -73,7 +82,8 @@ DTSTAMP:20261020T094528Z
 DTSTART:20261110T183000Z
 DTEND:20261110T201500Z
 SUMMARY:Tag und Nacht
-DESCRIPTION:Dauer: 1 h 45 min
+DESCRIPTION:19 Uhr Einführung | im Anschluss Publikumsgespräch\nDauer: 1
+  h 45 min
 URL:https://www.schauspiel.koeln/produktion/tag-und-nacht
 END:VEVENT
 BEGIN:VEVENT
@@ -82,7 +92,9 @@ DTSTAMP:20261020T094528Z
 DTSTART:20261112T183000Z
 DTEND:20261112T201000Z
 SUMMARY:Die Deutsche Bahn AG
-DESCRIPTION:Dauer: 1 h 40 min\nkeine Pause
+DESCRIPTION:Ein tragisch komischer Bühnenessay | 19 Uhr Einführung | Im 
+ Anschluss Publikumsgespräch mit „Die deutsche Bühne“ und Magazinrel
+ ease (kostenlos)\nDauer: 1 h 40 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/die-deutsche-bahn-ag
 END:VEVENT
 BEGIN:VEVENT
@@ -91,7 +103,7 @@ DTSTAMP:20261020T094528Z
 DTSTART:20261113T183000Z
 DTEND:20261113T202000Z
 SUMMARY:Kaspar
-DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause
+DESCRIPTION:19 Uhr Einführung\nDauer: 1 h 50 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/kaspar
 END:VEVENT
 BEGIN:VEVENT
@@ -100,7 +112,8 @@ DTSTAMP:20261020T094528Z
 DTSTART:20261114T183000Z
 DTEND:20261114T201500Z
 SUMMARY:Imagine
-DESCRIPTION:Dauer: 1 h 45 min\nkeine Pause
+DESCRIPTION:suitable for non-German-speakers | Nur noch wenige Vorstellung
+ en!\nDauer: 1 h 45 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/imagine
 END:VEVENT
 BEGIN:VEVENT
@@ -109,7 +122,8 @@ DTSTAMP:20261020T094528Z
 DTSTART:20261115T183000Z
 DTEND:20261115T202000Z
 SUMMARY:In bester Lage
-DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause
+DESCRIPTION:Eine Komödie über das Trauerspiel im Eigentum\nDauer: 1 h 50
+  min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/in-bester-lage
 END:VEVENT
 BEGIN:VEVENT
@@ -118,7 +132,7 @@ DTSTAMP:20261020T094528Z
 DTSTART:20261118T183000Z
 DTEND:20261118T201500Z
 SUMMARY:Tag und Nacht
-DESCRIPTION:Dauer: 1 h 45 min
+DESCRIPTION:19 Uhr Einführung\nDauer: 1 h 45 min
 URL:https://www.schauspiel.koeln/produktion/tag-und-nacht
 END:VEVENT
 BEGIN:VEVENT
@@ -127,7 +141,6 @@ DTSTAMP:20261020T094528Z
 DTSTART:20261119T183000Z
 DTEND:20261119T203000Z
 SUMMARY:Eine neue Recherche
-DESCRIPTION:
 URL:https://www.schauspiel.koeln/produktion/eine-neue-recherche
 END:VEVENT
 BEGIN:VEVENT
@@ -136,7 +149,7 @@ DTSTAMP:20261020T094528Z
 DTSTART:20261122T100000Z
 DTEND:20261122T120000Z
 SUMMARY:Buch für die Stadt
-DESCRIPTION:
+DESCRIPTION:„Ein Mann der Kunst“ von Kristof Magnusson
 URL:https://www.schauspiel.koeln/produktion/buch-fuer-die-stadt
 END:VEVENT
 BEGIN:VEVENT
@@ -144,9 +157,28 @@ UID:e9839a8ff9bde9a933e16eb7025d7a7aabc550fd@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20261122T170000Z
 DTEND:20261122T185000Z
-SUMMARY:Vergeltung
-DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause
+SUMMARY:[WA] Vergeltung
+DESCRIPTION:Zusatz: Wiederaufnahme\nEin Live-Hörspiel mit sechs Bildern |
+  17.30 Uhr Einführung\nDauer: 1 h 50 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/vergeltung
+END:VEVENT
+BEGIN:VEVENT
+UID:9a5cf7e3f30c4682b3ba7c0078d4ac159ee31cc7@schauspiel-koeln-ical
+DTSTAMP:20261031T161259Z
+DTSTART:20261129T170000Z
+DTEND:20261129T190000Z
+SUMMARY:[PREM] Pinocchio
+DESCRIPTION:Zusatz: Premiere\nPop-Opera für Groß und Klein
+URL:https://www.schauspiel.koeln/produktion/pinocchio
+END:VEVENT
+BEGIN:VEVENT
+UID:3c421d6b5120f31b41c3d28a7afa40538b213d93@schauspiel-koeln-ical
+DTSTAMP:20261031T161259Z
+DTSTART:20261201T093000Z
+DTEND:20261201T113000Z
+SUMMARY:Pinocchio
+DESCRIPTION:Pop-Opera für Groß und Klein | Schulvorstellung
+URL:https://www.schauspiel.koeln/produktion/pinocchio
 END:VEVENT
 BEGIN:VEVENT
 UID:3817e7479ea5badd77c4eeca9cdf0e428a7fc739@schauspiel-koeln-ical
@@ -154,8 +186,27 @@ DTSTAMP:20261029T111341Z
 DTSTART:20261201T183000Z
 DTEND:20261201T201500Z
 SUMMARY:Tag und Nacht
-DESCRIPTION:Dauer: 1 h 45 min
+DESCRIPTION:19 Uhr Einführung | im Anschluss Publikumsgespräch\nDauer: 1
+  h 45 min
 URL:https://www.schauspiel.koeln/produktion/tag-und-nacht
+END:VEVENT
+BEGIN:VEVENT
+UID:6dcfec214a8803b735fbae0b9243548e366367b6@schauspiel-koeln-ical
+DTSTAMP:20261031T161259Z
+DTSTART:20261202T093000Z
+DTEND:20261202T113000Z
+SUMMARY:Pinocchio
+DESCRIPTION:Pop-Opera für Groß und Klein | Schulvorstellung
+URL:https://www.schauspiel.koeln/produktion/pinocchio
+END:VEVENT
+BEGIN:VEVENT
+UID:a6bc1924cf706342e3a90721ea11d40765a7eef8@schauspiel-koeln-ical
+DTSTAMP:20261031T161259Z
+DTSTART:20261203T093000Z
+DTEND:20261203T113000Z
+SUMMARY:Pinocchio
+DESCRIPTION:Pop-Opera für Groß und Klein | Schulvorstellung
+URL:https://www.schauspiel.koeln/produktion/pinocchio
 END:VEVENT
 BEGIN:VEVENT
 UID:6514403137deed305123b75dc444b1ca0299e14a@schauspiel-koeln-ical
@@ -163,7 +214,8 @@ DTSTAMP:20261020T094528Z
 DTSTART:20261203T183000Z
 DTEND:20261203T200000Z
 SUMMARY:Baby\, Don't give up
-DESCRIPTION:Dauer: 1 h 30 min\nkeine Pause
+DESCRIPTION:mit Dolmetschung in deutsche Gebärdensprache (Anmeldung: dive
+ rsity@schauspiel.koeln) | #9 mit MONCHI\nDauer: 1 h 30 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/baby-dont-give
 END:VEVENT
 BEGIN:VEVENT
@@ -172,7 +224,8 @@ DTSTAMP:20261029T111341Z
 DTSTART:20261204T183000Z
 DTEND:20261204T201000Z
 SUMMARY:Die Deutsche Bahn AG
-DESCRIPTION:Dauer: 1 h 40 min\nkeine Pause
+DESCRIPTION:Ein tragisch komischer Bühnenessay | 19 Uhr Einführung\nDaue
+ r: 1 h 40 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/die-deutsche-bahn-ag
 END:VEVENT
 BEGIN:VEVENT
@@ -181,16 +234,43 @@ DTSTAMP:20261029T111341Z
 DTSTART:20261205T183000Z
 DTEND:20261205T202000Z
 SUMMARY:Kaspar
-DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause
+DESCRIPTION:19 Uhr Einführung\nDauer: 1 h 50 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/kaspar
+END:VEVENT
+BEGIN:VEVENT
+UID:d73df8867cc05f3c762e5b95b540afe6e547892d@schauspiel-koeln-ical
+DTSTAMP:20261031T161259Z
+DTSTART:20261206T100000Z
+DTEND:20261206T120000Z
+SUMMARY:Pinocchio
+DESCRIPTION:Pop-Opera für Groß und Klein | Schulvorstellung
+URL:https://www.schauspiel.koeln/produktion/pinocchio
+END:VEVENT
+BEGIN:VEVENT
+UID:c3d66c667db6dd95a21c044c42b2b64e0e817007@schauspiel-koeln-ical
+DTSTAMP:20261031T161259Z
+DTSTART:20261206T160000Z
+DTEND:20261206T180000Z
+SUMMARY:Pinocchio
+DESCRIPTION:Pop-Opera für Groß und Klein
+URL:https://www.schauspiel.koeln/produktion/pinocchio
+END:VEVENT
+BEGIN:VEVENT
+UID:623620cbe53147f8f7377d488db44c52d2ca7fe8@schauspiel-koeln-ical
+DTSTAMP:20261031T161259Z
+DTSTART:20261207T093000Z
+DTEND:20261207T113000Z
+SUMMARY:Pinocchio
+DESCRIPTION:Pop-Opera für Groß und Klein | Schulvorstellung
+URL:https://www.schauspiel.koeln/produktion/pinocchio
 END:VEVENT
 BEGIN:VEVENT
 UID:0ccf832bad9cb2b8ee9faead6b1532dff5d0538c@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20261207T183000Z
 DTEND:20261207T203000Z
-SUMMARY:Lesung mit Michel Friedman und Isabel Schayani
-DESCRIPTION:
+SUMMARY:[LESUNG] Lesung mit Michel Friedman und Isabel Schayani
+DESCRIPTION:Zusatz: Lesung
 URL:https://www.schauspiel.koeln/produktion/lesung-mit-michel-friedman-und
  -isabel-schayani
 END:VEVENT
@@ -200,7 +280,8 @@ DTSTAMP:20261029T111341Z
 DTSTART:20261208T183000Z
 DTEND:20261208T202000Z
 SUMMARY:In bester Lage
-DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause
+DESCRIPTION:Eine Komödie über das Trauerspiel im Eigentum | 19 Uhr Einf
+ ührung\nDauer: 1 h 50 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/in-bester-lage
 END:VEVENT
 BEGIN:VEVENT
@@ -209,7 +290,8 @@ DTSTAMP:20261029T111341Z
 DTSTART:20261209T183000Z
 DTEND:20261209T202000Z
 SUMMARY:Vergeltung
-DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause
+DESCRIPTION:Ein Live-Hörspiel mit sechs Bildern | Nur noch wenige Vorstel
+ lungen!\nDauer: 1 h 50 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/vergeltung
 END:VEVENT
 BEGIN:VEVENT
@@ -218,7 +300,7 @@ DTSTAMP:20261029T111341Z
 DTSTART:20261210T183000Z
 DTEND:20261210T202000Z
 SUMMARY:Kaspar
-DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause
+DESCRIPTION:19 Uhr Einführung\nDauer: 1 h 50 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/kaspar
 END:VEVENT
 BEGIN:VEVENT
@@ -227,7 +309,8 @@ DTSTAMP:20261029T111341Z
 DTSTART:20261211T183000Z
 DTEND:20261211T201500Z
 SUMMARY:Imagine
-DESCRIPTION:Dauer: 1 h 45 min\nkeine Pause
+DESCRIPTION:suitable for non-German-speakers | Zum letzten Mal\nDauer: 1 h
+  45 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/imagine
 END:VEVENT
 BEGIN:VEVENT
@@ -238,6 +321,33 @@ DTEND:20261212T201500Z
 SUMMARY:Tag und Nacht
 DESCRIPTION:Dauer: 1 h 45 min
 URL:https://www.schauspiel.koeln/produktion/tag-und-nacht
+END:VEVENT
+BEGIN:VEVENT
+UID:6897b5da527db08d41c8d6535e7a573196286b9b@schauspiel-koeln-ical
+DTSTAMP:20261031T161259Z
+DTSTART:20261213T160000Z
+DTEND:20261213T180000Z
+SUMMARY:Pinocchio
+DESCRIPTION:Pop-Opera für Groß und Klein
+URL:https://www.schauspiel.koeln/produktion/pinocchio
+END:VEVENT
+BEGIN:VEVENT
+UID:042606cab25d21fe865acd1cc92b7fced46c2c73@schauspiel-koeln-ical
+DTSTAMP:20261031T161259Z
+DTSTART:20261214T093000Z
+DTEND:20261214T113000Z
+SUMMARY:Pinocchio
+DESCRIPTION:Pop-Opera für Groß und Klein
+URL:https://www.schauspiel.koeln/produktion/pinocchio
+END:VEVENT
+BEGIN:VEVENT
+UID:a13d5bdf3f385cf337e2d6871b7be23c3f8c7398@schauspiel-koeln-ical
+DTSTAMP:20261031T161259Z
+DTSTART:20261215T093000Z
+DTEND:20261215T113000Z
+SUMMARY:Pinocchio
+DESCRIPTION:Pop-Opera für Groß und Klein | Schulvorstellung
+URL:https://www.schauspiel.koeln/produktion/pinocchio
 END:VEVENT
 BEGIN:VEVENT
 UID:183d6357ece0ed2423ea125ebb215c3703eed935@schauspiel-koeln-ical
@@ -254,8 +364,67 @@ DTSTAMP:20261029T111341Z
 DTSTART:20261216T183000Z
 DTEND:20261216T201000Z
 SUMMARY:Die Deutsche Bahn AG
-DESCRIPTION:Dauer: 1 h 40 min\nkeine Pause
+DESCRIPTION:Ein tragisch komischer Bühnenessay | 19 Uhr Einführung\nDaue
+ r: 1 h 40 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/die-deutsche-bahn-ag
+END:VEVENT
+BEGIN:VEVENT
+UID:4a1786ef07eb3f20dfd52507d1f7c97ebe2ca523@schauspiel-koeln-ical
+DTSTAMP:20261031T161259Z
+DTSTART:20261218T183000Z
+DTEND:20261218T193000Z
+SUMMARY:[TANZ] Rave Lucid
+DESCRIPTION:Zusatz: Tanzgastspiel\n18.30 Uhr bewegte Einführung mit Lucia
+  Nordhoff (Anmeldung: info@tanz.koeln)\nDauer: 1 h 00 min
+URL:https://www.schauspiel.koeln/produktion/rave-lucid
+END:VEVENT
+BEGIN:VEVENT
+UID:720315d140c470c7fd8f7fecda7f33d2e2eaa992@schauspiel-koeln-ical
+DTSTAMP:20261031T161259Z
+DTSTART:20261219T183000Z
+DTEND:20261219T193000Z
+SUMMARY:[TANZ] Rave Lucid
+DESCRIPTION:Zusatz: Tanzgastspiel\n18.30 Uhr bewegte Einführung mit Lucia
+  Nordhoff (Anmeldung: info@tanz.koeln)\nDauer: 1 h 00 min
+URL:https://www.schauspiel.koeln/produktion/rave-lucid
+END:VEVENT
+BEGIN:VEVENT
+UID:9fdc46a9af1a46c7639a51ced14d61db924164f6@schauspiel-koeln-ical
+DTSTAMP:20261031T161259Z
+DTSTART:20261220T100000Z
+DTEND:20261220T120000Z
+SUMMARY:Pinocchio
+DESCRIPTION:Pop-Opera für Groß und Klein | 15.30 Uhr Einführung mit Tas
+ tführung (Anmeldung: diversity@schauspiel.koeln)
+URL:https://www.schauspiel.koeln/produktion/pinocchio
+END:VEVENT
+BEGIN:VEVENT
+UID:37008bf28795f1d7f1b04d3db1100c0ba9ae4b18@schauspiel-koeln-ical
+DTSTAMP:20261031T161259Z
+DTSTART:20261220T160000Z
+DTEND:20261220T180000Z
+SUMMARY:Pinocchio
+DESCRIPTION:mit Audiodeskription | Pop-Opera für Groß und Klein | 15.30 
+ Uhr Einführung mit Tastführung (Anmeldung: diversity@schauspiel.koeln)
+URL:https://www.schauspiel.koeln/produktion/pinocchio
+END:VEVENT
+BEGIN:VEVENT
+UID:6c69ab06c7ba006016be37e5b6cb59343c98bdae@schauspiel-koeln-ical
+DTSTAMP:20261031T161259Z
+DTSTART:20261221T093000Z
+DTEND:20261221T113000Z
+SUMMARY:Pinocchio
+DESCRIPTION:Pop-Opera für Groß und Klein | Schulvorstellung
+URL:https://www.schauspiel.koeln/produktion/pinocchio
+END:VEVENT
+BEGIN:VEVENT
+UID:dad28f01f9ef99aa715cb1983a53259aa89d47f0@schauspiel-koeln-ical
+DTSTAMP:20261031T161259Z
+DTSTART:20261222T093000Z
+DTEND:20261222T113000Z
+SUMMARY:Pinocchio
+DESCRIPTION:Pop-Opera für Groß und Klein | Schulvorstellung
+URL:https://www.schauspiel.koeln/produktion/pinocchio
 END:VEVENT
 BEGIN:VEVENT
 UID:7d3206ab2e2bd8bfb8558b6832c2db7535e6c45c@schauspiel-koeln-ical
@@ -265,6 +434,33 @@ DTEND:20261223T202000Z
 SUMMARY:Kaspar
 DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/kaspar
+END:VEVENT
+BEGIN:VEVENT
+UID:04efb9551443d1977de4e18606be53cbac077fe2@schauspiel-koeln-ical
+DTSTAMP:20261031T161259Z
+DTSTART:20261225T160000Z
+DTEND:20261225T180000Z
+SUMMARY:Pinocchio
+DESCRIPTION:Pop-Opera für Groß und Klein
+URL:https://www.schauspiel.koeln/produktion/pinocchio
+END:VEVENT
+BEGIN:VEVENT
+UID:21343a66469f34624bbc1803d4ef50c561b65bb2@schauspiel-koeln-ical
+DTSTAMP:20261031T161259Z
+DTSTART:20261226T100000Z
+DTEND:20261226T120000Z
+SUMMARY:Pinocchio
+DESCRIPTION:Pop-Opera für Groß und Klein
+URL:https://www.schauspiel.koeln/produktion/pinocchio
+END:VEVENT
+BEGIN:VEVENT
+UID:42cb137c3c57dfc4c61697ae4d67afc8a80a06e9@schauspiel-koeln-ical
+DTSTAMP:20261031T161259Z
+DTSTART:20261226T160000Z
+DTEND:20261226T180000Z
+SUMMARY:Pinocchio
+DESCRIPTION:Pop-Opera für Groß und Klein
+URL:https://www.schauspiel.koeln/produktion/pinocchio
 END:VEVENT
 BEGIN:VEVENT
 UID:777a0773437b52b5ddfb17feb4658b67bb7f12f8@schauspiel-koeln-ical
@@ -281,7 +477,8 @@ DTSTAMP:20261029T111341Z
 DTSTART:20261230T183000Z
 DTEND:20261230T201000Z
 SUMMARY:Die Deutsche Bahn AG
-DESCRIPTION:Dauer: 1 h 40 min\nkeine Pause
+DESCRIPTION:Ein tragisch komischer Bühnenessay\nDauer: 1 h 40 min\nkeine 
+ Pause
 URL:https://www.schauspiel.koeln/produktion/die-deutsche-bahn-ag
 END:VEVENT
 BEGIN:VEVENT
@@ -290,7 +487,8 @@ DTSTAMP:20261029T111341Z
 DTSTART:20261231T180000Z
 DTEND:20261231T195000Z
 SUMMARY:In bester Lage
-DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause
+DESCRIPTION:Eine Komödie über das Trauerspiel im Eigentum | Silvestervor
+ stellung mit Sektempfang\nDauer: 1 h 50 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/in-bester-lage
 END:VEVENT
 BEGIN:VEVENT
@@ -298,8 +496,8 @@ UID:f5eb8b84c07fecff67ae78365a2c0a779152ab18@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20270129T183000Z
 DTEND:20270129T203000Z
-SUMMARY:Antigone
-DESCRIPTION:
+SUMMARY:[PREM] Antigone
+DESCRIPTION:Zusatz: Premiere
 URL:https://www.schauspiel.koeln/produktion/antigone
 END:VEVENT
 BEGIN:VEVENT
@@ -308,7 +506,9 @@ DTSTAMP:20261020T094528Z
 DTSTART:20270131T170000Z
 DTEND:20270131T183000Z
 SUMMARY:Baby\, Don't give up
-DESCRIPTION:Dauer: 1 h 30 min\nkeine Pause
+DESCRIPTION:mit Dolmetschung in deutsche Gebärdensprache (Anmeldung: dive
+ rsity@schauspiel.koeln) | #10 mit Matthias Brandt\nDauer: 1 h 30 min\nkei
+ ne Pause
 URL:https://www.schauspiel.koeln/produktion/baby-dont-give
 END:VEVENT
 BEGIN:VEVENT
@@ -316,8 +516,8 @@ UID:51f385277f5fa0de63539dd9567f500768834304@schauspiel-koeln-ical
 DTSTAMP:20261029T111341Z
 DTSTART:20270212T183000Z
 DTEND:20270212T202100Z
-SUMMARY:Sleepless\, Shut Your Eyes And See\, SAABA
-DESCRIPTION:Dauer: 1 h 51 min\nmit Pause
+SUMMARY:[TANZ] Sleepless\, Shut Your Eyes And See\, SAABA
+DESCRIPTION:Zusatz: Tanzgastspiel\nDauer: 1 h 51 min\nmit Pause
 URL:https://www.schauspiel.koeln/produktion/sleepless-shut-your-eyes-and-s
  ee-saaba
 END:VEVENT
@@ -326,8 +526,8 @@ UID:6428fa95dca7a70f73028815a285c072179f212c@schauspiel-koeln-ical
 DTSTAMP:20261029T111341Z
 DTSTART:20270213T183000Z
 DTEND:20270213T202100Z
-SUMMARY:Sleepless\, Shut Your Eyes And See\, SAABA
-DESCRIPTION:Dauer: 1 h 51 min\nmit Pause
+SUMMARY:[TANZ] Sleepless\, Shut Your Eyes And See\, SAABA
+DESCRIPTION:Zusatz: Tanzgastspiel\nDauer: 1 h 51 min\nmit Pause
 URL:https://www.schauspiel.koeln/produktion/sleepless-shut-your-eyes-and-s
  ee-saaba
 END:VEVENT
@@ -336,8 +536,8 @@ UID:cfd9f0ec93c0bfd1edd60f053f0118fe1616281f@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20270415T173000Z
 DTEND:20270415T193000Z
-SUMMARY:Inter Alia
-DESCRIPTION:
+SUMMARY:[PREM] Inter Alia
+DESCRIPTION:Zusatz: Premiere
 URL:https://www.schauspiel.koeln/produktion/inter-alia
 END:VEVENT
 BEGIN:VEVENT
@@ -345,8 +545,8 @@ UID:00419a737b12fc95641595c1f59c45c52bfc53ba@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20270417T173000Z
 DTEND:20270417T183000Z
-SUMMARY:Calentamiento
-DESCRIPTION:Dauer: 1 h 00 min
+SUMMARY:[TANZ] Calentamiento
+DESCRIPTION:Zusatz: Tanzgastspiel\nDauer: 1 h 00 min
 URL:https://www.schauspiel.koeln/produktion/calentamiento
 END:VEVENT
 BEGIN:VEVENT
@@ -354,8 +554,8 @@ UID:8a3a5960996a3dca69bb26888be450ade82bcbf6@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20270418T173000Z
 DTEND:20270418T183000Z
-SUMMARY:Calentamiento
-DESCRIPTION:Dauer: 1 h 00 min
+SUMMARY:[TANZ] Calentamiento
+DESCRIPTION:Zusatz: Tanzgastspiel\nDauer: 1 h 00 min
 URL:https://www.schauspiel.koeln/produktion/calentamiento
 END:VEVENT
 BEGIN:VEVENT
@@ -363,8 +563,8 @@ UID:3932d551cd24129ef56bc9c828f8443530204d02@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20270508T173000Z
 DTEND:20270508T193000Z
-SUMMARY:Denk ich an Deutschland in der Nacht
-DESCRIPTION:
+SUMMARY:[UA] Denk ich an Deutschland in der Nacht
+DESCRIPTION:Zusatz: Uraufführung
 URL:https://www.schauspiel.koeln/produktion/denk-ich-deutschland-der-nacht
 END:VEVENT
 BEGIN:VEVENT
@@ -372,8 +572,8 @@ UID:8148ddee0d2a946b8844b6dad4d367512fc42019@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20270520T173000Z
 DTEND:20270520T194500Z
-SUMMARY:Hammer
-DESCRIPTION:Dauer: 2 h 15 min\nmit Pause
+SUMMARY:[TANZ] Hammer
+DESCRIPTION:Zusatz: Tanzgastspiel\nDauer: 2 h 15 min\nmit Pause
 URL:https://www.schauspiel.koeln/produktion/hammer
 END:VEVENT
 BEGIN:VEVENT
@@ -381,8 +581,8 @@ UID:f079f5c203c1fac8cb9103773a14134f2facc6db@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20270521T173000Z
 DTEND:20270521T194500Z
-SUMMARY:Hammer
-DESCRIPTION:Dauer: 2 h 15 min\nmit Pause
+SUMMARY:[TANZ] Hammer
+DESCRIPTION:Zusatz: Tanzgastspiel\nDauer: 2 h 15 min\nmit Pause
 URL:https://www.schauspiel.koeln/produktion/hammer
 END:VEVENT
 BEGIN:VEVENT
@@ -390,8 +590,8 @@ UID:8f72884966cba1189e7c244c6340924253f16a2e@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20270529T173000Z
 DTEND:20270529T193000Z
-SUMMARY:Karneval des Scheiterns
-DESCRIPTION:
+SUMMARY:[KÖLN-PREM] Karneval des Scheiterns
+DESCRIPTION:Zusatz: Köln-Premiere
 URL:https://www.schauspiel.koeln/produktion/karneval-des-scheiterns
 END:VEVENT
 BEGIN:VEVENT
@@ -399,8 +599,8 @@ UID:f878d5ac780e9a150e7f09c53a139dad064cf0f8@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20270605T173000Z
 DTEND:20270605T193000Z
-SUMMARY:Der Zauderberg
-DESCRIPTION:
+SUMMARY:[UA] Der Zauderberg
+DESCRIPTION:Zusatz: Uraufführung
 URL:https://www.schauspiel.koeln/produktion/der-zauderberg
 END:VEVENT
 BEGIN:VEVENT
@@ -408,8 +608,8 @@ UID:fc15a5b22a967b9308a9acd1f00eeaf7a8286349@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20270616T173000Z
 DTEND:20270616T193000Z
-SUMMARY:Blimund
-DESCRIPTION:
+SUMMARY:[TANZ] Blimund
+DESCRIPTION:Zusatz: Tanzgastspiel
 URL:https://www.schauspiel.koeln/produktion/blimund
 END:VEVENT
 BEGIN:VEVENT
@@ -417,8 +617,8 @@ UID:d0d4a6c40a0017d0846fdfcb85d51b3502937298@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20270617T173000Z
 DTEND:20270617T193000Z
-SUMMARY:Blimund
-DESCRIPTION:
+SUMMARY:[TANZ] Blimund
+DESCRIPTION:Zusatz: Tanzgastspiel
 URL:https://www.schauspiel.koeln/produktion/blimund
 END:VEVENT
 BEGIN:VEVENT
@@ -426,8 +626,8 @@ UID:0a31bff8fd9affc1d0bd7ca939db981f8ed5c45e@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20270618T173000Z
 DTEND:20270618T193000Z
-SUMMARY:Blimund
-DESCRIPTION:
+SUMMARY:[TANZ] Blimund
+DESCRIPTION:Zusatz: Tanzgastspiel
 URL:https://www.schauspiel.koeln/produktion/blimund
 END:VEVENT
 BEGIN:VEVENT
@@ -435,8 +635,8 @@ UID:c77559d3acc4c98c7460a7887c18ef0164a70e26@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20270717T173000Z
 DTEND:20270717T193000Z
-SUMMARY:Icon/Icons
-DESCRIPTION:
+SUMMARY:[TANZ] Icon/Icons
+DESCRIPTION:Zusatz: Tanzgastspiel
 URL:https://www.schauspiel.koeln/produktion/iconicons
 END:VEVENT
 BEGIN:VEVENT
@@ -444,8 +644,8 @@ UID:a00dde4576267113d5cf6a7c4d04b848ec308f21@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20270718T160000Z
 DTEND:20270718T180000Z
-SUMMARY:Icon/Icons
-DESCRIPTION:
+SUMMARY:[TANZ] Icon/Icons
+DESCRIPTION:Zusatz: Tanzgastspiel
 URL:https://www.schauspiel.koeln/produktion/iconicons
 END:VEVENT
 BEGIN:VEVENT
@@ -453,8 +653,8 @@ UID:8ecf169bf3895401dc60f0c2033a6fb3c519a4f1@schauspiel-koeln-ical
 DTSTAMP:20261021T073903Z
 DTSTART:20271112T183000Z
 DTEND:20271112T203000Z
-SUMMARY:Moka Efti Orchestra & Benno Führmann
-DESCRIPTION:
+SUMMARY:[KONZERT] Moka Efti Orchestra & Benno Führmann
+DESCRIPTION:Zusatz: Konzert
 URL:https://www.schauspiel.koeln/produktion/moka-efti-orchestra-benno-fueh
  rmann
 END:VEVENT
@@ -463,8 +663,8 @@ UID:c7f5144181d4ba1cd406bf2e99bb65496dec7724@schauspiel-koeln-ical
 DTSTAMP:20261021T073903Z
 DTSTART:20271113T110000Z
 DTEND:20271113T130000Z
-SUMMARY:Moka Efti Orchestra & Benno Führmann
-DESCRIPTION:
+SUMMARY:[KONZERT] Moka Efti Orchestra & Benno Führmann
+DESCRIPTION:Zusatz: Konzert
 URL:https://www.schauspiel.koeln/produktion/moka-efti-orchestra-benno-fueh
  rmann
 END:VEVENT
