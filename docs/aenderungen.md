@@ -2,6 +2,18 @@
 
 Neueste Einträge stehen oben.
 
+## 31.10.2026 – 0 neu, 0 nicht mehr enthalten, 7 geändert
+
+**Geändert**
+
+- [Kaspar](https://www.schauspiel.koeln/produktion/kaspar): Sa 31.10.2026, 19:30 Uhr – Ende jetzt 21:20 Uhr (vorher 21:30 Uhr)
+- [Kaspar](https://www.schauspiel.koeln/produktion/kaspar): So 08.11.2026, 18:00 Uhr – Ende jetzt 19:50 Uhr (vorher 20:00 Uhr)
+- [Kaspar](https://www.schauspiel.koeln/produktion/kaspar): Fr 13.11.2026, 19:30 Uhr – Ende jetzt 21:20 Uhr (vorher 21:30 Uhr)
+- [Kaspar](https://www.schauspiel.koeln/produktion/kaspar): Sa 05.12.2026, 19:30 Uhr – Ende jetzt 21:20 Uhr (vorher 21:30 Uhr)
+- [Kaspar](https://www.schauspiel.koeln/produktion/kaspar): Do 10.12.2026, 19:30 Uhr – Ende jetzt 21:20 Uhr (vorher 21:30 Uhr)
+- [Kaspar](https://www.schauspiel.koeln/produktion/kaspar): Di 15.12.2026, 19:30 Uhr – Ende jetzt 21:20 Uhr (vorher 21:30 Uhr)
+- [Kaspar](https://www.schauspiel.koeln/produktion/kaspar): Mi 23.12.2026, 19:30 Uhr – Ende jetzt 21:20 Uhr (vorher 21:30 Uhr)
+
 ## 29.10.2026 – 16 neu, 4 nicht mehr enthalten, 0 geändert
 
 **Neu**
