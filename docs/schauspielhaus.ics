@@ -163,10 +163,10 @@ DESCRIPTION:Zusatz: Wiederaufnahme\nEin Live-Hörspiel mit sechs Bildern |
 URL:https://www.schauspiel.koeln/produktion/vergeltung
 END:VEVENT
 BEGIN:VEVENT
-UID:9a5cf7e3f30c4682b3ba7c0078d4ac159ee31cc7@schauspiel-koeln-ical
-DTSTAMP:20261031T161259Z
-DTSTART:20261129T170000Z
-DTEND:20261129T190000Z
+UID:6644990bf07f0354c09fdc3b84b4232bdb67bd0c@schauspiel-koeln-ical
+DTSTAMP:20261103T123223Z
+DTSTART:20261129T150000Z
+DTEND:20261129T170000Z
 SUMMARY:[PREM] Pinocchio
 DESCRIPTION:Zusatz: Premiere\nPop-Opera für Groß und Klein
 URL:https://www.schauspiel.koeln/produktion/pinocchio
@@ -209,14 +209,15 @@ DESCRIPTION:Pop-Opera für Groß und Klein | Schulvorstellung
 URL:https://www.schauspiel.koeln/produktion/pinocchio
 END:VEVENT
 BEGIN:VEVENT
-UID:6514403137deed305123b75dc444b1ca0299e14a@schauspiel-koeln-ical
-DTSTAMP:20261020T094528Z
+UID:f7b5992b5b34936dac2e21b70316d800ba9b2692@schauspiel-koeln-ical
+DTSTAMP:20261103T123223Z
 DTSTART:20261203T183000Z
 DTEND:20261203T200000Z
-SUMMARY:Baby\, Don't give up
+SUMMARY:Monchi liest
 DESCRIPTION:mit Dolmetschung in deutsche Gebärdensprache (Anmeldung: dive
- rsity@schauspiel.koeln) | #9 mit MONCHI\nDauer: 1 h 30 min\nkeine Pause
-URL:https://www.schauspiel.koeln/produktion/baby-dont-give
+ rsity@schauspiel.koeln) | Jenseits der Brandmauer | im Rahmen von BABY DO
+ N'T GIVE UP\nDauer: 1 h 30 min\nkeine Pause
+URL:https://www.schauspiel.koeln/produktion/monchi-liest
 END:VEVENT
 BEGIN:VEVENT
 UID:50a3a58159886fab6926f19af715f4ad76f7edf8@schauspiel-koeln-ical

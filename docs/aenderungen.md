@@ -2,6 +2,18 @@
 
 Neueste Einträge stehen oben.
 
+## 03.11.2026 – 2 neu, 2 nicht mehr enthalten, 0 geändert
+
+**Neu**
+
+- [\[PREM\] Pinocchio](https://www.schauspiel.koeln/produktion/pinocchio): So 29.11.2026, 16:00 Uhr
+- [Monchi liest](https://www.schauspiel.koeln/produktion/monchi-liest): Do 03.12.2026, 19:30 Uhr
+
+**Nicht mehr enthalten (abgesagt oder verschoben)**
+
+- [\[PREM\] Pinocchio](https://www.schauspiel.koeln/produktion/pinocchio): So 29.11.2026, 18:00 Uhr
+- [Baby, Don't give up](https://www.schauspiel.koeln/produktion/baby-dont-give): Do 03.12.2026, 19:30 Uhr
+
 ## 31.10.2026 – 19 neu, 0 nicht mehr enthalten, 23 geändert
 
 **Neu**
