@@ -136,12 +136,12 @@ DESCRIPTION:19 Uhr Einführung\nDauer: 1 h 45 min
 URL:https://www.schauspiel.koeln/produktion/tag-und-nacht
 END:VEVENT
 BEGIN:VEVENT
-UID:0d4db39e588d65f0bbf95d01ec07764a51990499@schauspiel-koeln-ical
-DTSTAMP:20261105T125253Z
+UID:e5aa115b3e4e8895c84ae63badcd54a1b8d5c7d8@schauspiel-koeln-ical
+DTSTAMP:20261106T123805Z
 DTSTART:20261119T183000Z
 DTEND:20261119T203000Z
-SUMMARY:Eine neue Recherche\\nText von Traudl Bünger
-URL:https://www.schauspiel.koeln/produktion/eine-neue-recherchentext-von-t
+SUMMARY:Eine neue Recherche - Text von Traudl Bünger
+URL:https://www.schauspiel.koeln/produktion/eine-neue-recherche-text-von-t
  raudl-buenger
 END:VEVENT
 BEGIN:VEVENT

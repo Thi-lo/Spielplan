@@ -2,6 +2,16 @@
 
 Neueste Einträge stehen oben.
 
+## 06.11.2026 – 1 neu, 1 nicht mehr enthalten, 0 geändert
+
+**Neu**
+
+- [Eine neue Recherche - Text von Traudl Bünger](https://www.schauspiel.koeln/produktion/eine-neue-recherche-text-von-traudl-buenger): Do 19.11.2026, 19:30 Uhr
+
+**Nicht mehr enthalten (abgesagt oder verschoben)**
+
+- [Eine neue Recherche\nText von Traudl Bünger](https://www.schauspiel.koeln/produktion/eine-neue-recherchentext-von-traudl-buenger): Do 19.11.2026, 19:30 Uhr
+
 ## 05.11.2026 – 1 neu, 1 nicht mehr enthalten, 0 geändert
 
 **Neu**
