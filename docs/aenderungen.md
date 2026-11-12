@@ -2,6 +2,12 @@
 
 Neueste Einträge stehen oben.
 
+## 12.11.2026 – 0 neu, 1 nicht mehr enthalten, 0 geändert
+
+**Nicht mehr enthalten (abgesagt oder verschoben)**
+
+- [Die Deutsche Bahn AG](https://www.schauspiel.koeln/produktion/die-deutsche-bahn-ag): Do 12.11.2026, 19:30 Uhr
+
 ## 06.11.2026 – 1 neu, 1 nicht mehr enthalten, 0 geändert
 
 **Neu**

@@ -87,17 +87,6 @@ DESCRIPTION:19 Uhr Einführung | im Anschluss Publikumsgespräch\nDauer: 1
 URL:https://www.schauspiel.koeln/produktion/tag-und-nacht
 END:VEVENT
 BEGIN:VEVENT
-UID:3a1ec9bd777f4173869506120b312a2647d66136@schauspiel-koeln-ical
-DTSTAMP:20261020T094528Z
-DTSTART:20261112T183000Z
-DTEND:20261112T201000Z
-SUMMARY:Die Deutsche Bahn AG
-DESCRIPTION:Ein tragisch komischer Bühnenessay | 19 Uhr Einführung | Im 
- Anschluss Publikumsgespräch mit „Die deutsche Bühne“ und Magazinrel
- ease (kostenlos)\nDauer: 1 h 40 min\nkeine Pause
-URL:https://www.schauspiel.koeln/produktion/die-deutsche-bahn-ag
-END:VEVENT
-BEGIN:VEVENT
 UID:6c83c1488ee049a97343fef5102b9d0422a1426c@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20261113T183000Z
@@ -216,8 +205,8 @@ DTSTART:20261203T183000Z
 DTEND:20261203T200000Z
 SUMMARY:Monchi liest
 DESCRIPTION:mit Dolmetschung in deutsche Gebärdensprache (Anmeldung: dive
- rsity@schauspiel.koeln) | Jenseits der Brandmauer | im Rahmen von BABY DO
- N'T GIVE UP\nDauer: 1 h 30 min\nkeine Pause
+ rsity@schauspiel.koeln) | Jenseits der Brandmauer | im Rahmen von BABY\, 
+ DON'T GIVE UP #9\nDauer: 1 h 30 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/monchi-liest
 END:VEVENT
 BEGIN:VEVENT
