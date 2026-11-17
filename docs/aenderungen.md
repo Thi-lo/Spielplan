@@ -2,6 +2,16 @@
 
 Neueste Einträge stehen oben.
 
+## 17.11.2026 – 1 neu, 1 nicht mehr enthalten, 0 geändert
+
+**Neu**
+
+- [Inside Deutsche Bank](https://www.schauspiel.koeln/produktion/inside-deutsche-bank): Do 19.11.2026, 19:30 Uhr
+
+**Nicht mehr enthalten (abgesagt oder verschoben)**
+
+- [Eine neue Recherche - Text von Traudl Bünger](https://www.schauspiel.koeln/produktion/eine-neue-recherche-text-von-traudl-buenger): Do 19.11.2026, 19:30 Uhr
+
 ## 12.11.2026 – 0 neu, 1 nicht mehr enthalten, 0 geändert
 
 **Nicht mehr enthalten (abgesagt oder verschoben)**

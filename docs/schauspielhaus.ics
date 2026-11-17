@@ -125,13 +125,14 @@ DESCRIPTION:19 Uhr Einführung\nDauer: 1 h 45 min
 URL:https://www.schauspiel.koeln/produktion/tag-und-nacht
 END:VEVENT
 BEGIN:VEVENT
-UID:e5aa115b3e4e8895c84ae63badcd54a1b8d5c7d8@schauspiel-koeln-ical
-DTSTAMP:20261106T123805Z
+UID:1a4e00ed7b59341dbbd8a62780d2f0774622a7c7@schauspiel-koeln-ical
+DTSTAMP:20261117T140147Z
 DTSTART:20261119T183000Z
-DTEND:20261119T203000Z
-SUMMARY:Eine neue Recherche - Text von Traudl Bünger
-URL:https://www.schauspiel.koeln/produktion/eine-neue-recherche-text-von-t
- raudl-buenger
+DTEND:20261119T195000Z
+SUMMARY:Inside Deutsche Bank
+DESCRIPTION:Die neue Recherche als szenische Lesung im Schauspiel Köln\nD
+ auer: 1 h 20 min\nkeine Pause
+URL:https://www.schauspiel.koeln/produktion/inside-deutsche-bank
 END:VEVENT
 BEGIN:VEVENT
 UID:fc843e962fdb0dfd68378ca95dfef2df2ef3b298@schauspiel-koeln-ical
