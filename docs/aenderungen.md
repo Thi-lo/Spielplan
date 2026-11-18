@@ -2,6 +2,12 @@
 
 Neueste Einträge stehen oben.
 
+## 18.11.2026 – 1 neu, 0 nicht mehr enthalten, 0 geändert
+
+**Neu**
+
+- [Kaspar](https://www.schauspiel.koeln/produktion/kaspar): Sa 28.11.2026, 19:30 Uhr
+
 ## 17.11.2026 – 1 neu, 1 nicht mehr enthalten, 0 geändert
 
 **Neu**

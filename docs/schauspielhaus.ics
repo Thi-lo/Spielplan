@@ -121,7 +121,7 @@ DTSTAMP:20261020T094528Z
 DTSTART:20261118T183000Z
 DTEND:20261118T201500Z
 SUMMARY:Tag und Nacht
-DESCRIPTION:19 Uhr Einführung\nDauer: 1 h 45 min
+DESCRIPTION:19 Uhr Einführung\nDauer: 1 h 45 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/tag-und-nacht
 END:VEVENT
 BEGIN:VEVENT
@@ -154,6 +154,15 @@ DESCRIPTION:Zusatz: Wiederaufnahme\nEin Live-Hörspiel mit sechs Bildern |
 URL:https://www.schauspiel.koeln/produktion/vergeltung
 END:VEVENT
 BEGIN:VEVENT
+UID:cf6e5b3da880b0d81f458ee13d372a2f569321ae@schauspiel-koeln-ical
+DTSTAMP:20261118T133630Z
+DTSTART:20261128T183000Z
+DTEND:20261128T202000Z
+SUMMARY:Kaspar
+DESCRIPTION:Dauer: 1 h 50 min\nkeine Pause
+URL:https://www.schauspiel.koeln/produktion/kaspar
+END:VEVENT
+BEGIN:VEVENT
 UID:6644990bf07f0354c09fdc3b84b4232bdb67bd0c@schauspiel-koeln-ical
 DTSTAMP:20261103T123223Z
 DTSTART:20261129T150000Z
@@ -178,7 +187,7 @@ DTSTART:20261201T183000Z
 DTEND:20261201T201500Z
 SUMMARY:Tag und Nacht
 DESCRIPTION:19 Uhr Einführung | im Anschluss Publikumsgespräch\nDauer: 1
-  h 45 min
+  h 45 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/tag-und-nacht
 END:VEVENT
 BEGIN:VEVENT
@@ -311,7 +320,7 @@ DTSTAMP:20261029T111341Z
 DTSTART:20261212T183000Z
 DTEND:20261212T201500Z
 SUMMARY:Tag und Nacht
-DESCRIPTION:Dauer: 1 h 45 min
+DESCRIPTION:Dauer: 1 h 45 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/tag-und-nacht
 END:VEVENT
 BEGIN:VEVENT
@@ -460,7 +469,7 @@ DTSTAMP:20261029T111341Z
 DTSTART:20261227T170000Z
 DTEND:20261227T184500Z
 SUMMARY:Tag und Nacht
-DESCRIPTION:Dauer: 1 h 45 min
+DESCRIPTION:Dauer: 1 h 45 min\nkeine Pause
 URL:https://www.schauspiel.koeln/produktion/tag-und-nacht
 END:VEVENT
 BEGIN:VEVENT
