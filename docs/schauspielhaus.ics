@@ -135,15 +135,6 @@ DESCRIPTION:Die neue Recherche als szenische Lesung im Schauspiel Köln\nD
 URL:https://www.schauspiel.koeln/produktion/inside-deutsche-bank
 END:VEVENT
 BEGIN:VEVENT
-UID:fc843e962fdb0dfd68378ca95dfef2df2ef3b298@schauspiel-koeln-ical
-DTSTAMP:20261020T094528Z
-DTSTART:20261122T100000Z
-DTEND:20261122T120000Z
-SUMMARY:Buch für die Stadt
-DESCRIPTION:„Ein Mann der Kunst“ von Kristof Magnusson
-URL:https://www.schauspiel.koeln/produktion/buch-fuer-die-stadt
-END:VEVENT
-BEGIN:VEVENT
 UID:e9839a8ff9bde9a933e16eb7025d7a7aabc550fd@schauspiel-koeln-ical
 DTSTAMP:20261020T094528Z
 DTSTART:20261122T170000Z
